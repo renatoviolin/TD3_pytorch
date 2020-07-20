@@ -11,13 +11,10 @@ This algorithm is a Policy Gradient Algorithm, and was tested in environment wit
 This environment generate states of 22 float numbers and take actions of 6 floats number in range [-1, 1]
 
 #### Begin of learn: walker dont keep stand up.
-<img src="01-walker/img/walker_1.gif" width="300px">
+<img src="01-walker/img/walker_1.gif" width="200px">
 
 #### After (~100k episodes): walker keep stand up and fall down after a little.
-<img src="01-walker/img/walker_2.gif" width="300px">
+<img src="01-walker/img/walker_2.gif" width="200px">
 
 #### After (~400k episodes): walker can walk without falls.
-<img src="01-walker/img/walker_3.gif" width="300px">
-
-#### After (~500k episodes): walker can walk in a better posture.
-<img src="01-walker/img/walker_4.gif" width="300px">
+<img src="01-walker/img/walker_3.gif" width="200px">
